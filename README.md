@@ -15,5 +15,10 @@ I created this photography website using HTML and CSS. I wanted to make a simple
 - HTML
 - CSS
 
+## Version 1
+Updated the project descriptio
+
+
 ## Author
 Suhei
+
