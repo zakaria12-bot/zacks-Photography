@@ -37,7 +37,7 @@ nav a:hover{
 }
 
 .about{
-    background:white;
+    background:lab(17.84% 1.36 0.48);
     margin:20px;
     padding:20px;
     border-radius:10px;
