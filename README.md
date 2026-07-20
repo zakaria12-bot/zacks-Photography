@@ -17,7 +17,8 @@ I created this photography website using HTML and CSS. I wanted to make a simple
 
 ## Version 1
 Updated the project descriptio
-
+## Version 2
+Added more information about the project
 
 ## Author
 Suhei
